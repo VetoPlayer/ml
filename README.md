@@ -14,3 +14,8 @@ python3 -m pip install -r requirements.txt
 Once inside the virtual environment:
 
 jupyter notebook
+
+
+## Development Setup
+
+Remeber to install vim ALE for asynchronous linting, alongside with autopep and pylint
